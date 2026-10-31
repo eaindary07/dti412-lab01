@@ -32,7 +32,6 @@ React.js for frontend development
 PostgreSQL for database management
 Git and GitHub for version control
 - Dream Job Position: Full-Stack Developer
-
 ## Semester Goals
 - Learn Django
 - Learn REST API Development
